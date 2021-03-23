@@ -1,4 +1,4 @@
-# [Flask Dashboard](https://appseed.us/admin-dashboards/flask) Chart.js
+# [Flask Chart.js](https://flask-chartjs.appseed-srv1.com/)
 
 Flask sample project that uses Chart.js to showcase the information. Initially forked from [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design), free dashboard starter provided by AppSeed.
 
@@ -310,4 +310,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard](https://appseed.us/admin-dashboards/flask) Material Design - Provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
+[Flask Chart.js](https://flask-chartjs.appseed-srv1.com/) - Sample project provided by **AppSeed [App Generator](https://appseed.us/app-generator)**.
