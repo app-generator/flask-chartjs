@@ -19,8 +19,7 @@ Flask sample project that uses Chart.js to showcase the information. Initially f
 
 > Links
 
-- [Flask Dashboard Material](https://appseed.us/admin-dashboards/flask-dashboard-material-design) - product page
-- [Flask Dashboard Material - Demo](https://flask-material-dashboard.appseed-srv1.com/) - LIVE app
+- [Flask Chart.js - Demo](#) - LIVE deployment (@WIP)
 - [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
@@ -36,7 +35,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Flask Dashboard Material Design - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-material-dashboard/master/media/flask-material-dashboard-screen.png)
+![Flask Dashboard Material Design - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-chartjs/master/media/flask-chartjs-intro.gif)
 
 <br />
 
@@ -44,8 +43,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/flask-material-dashboard.git
-$ cd flask-material-dashboard
+$ git clone https://github.com/app-generator/flask-chartjs.git
+$ cd flask-chartjs
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -211,8 +210,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/flask-material-dashboard.git
-$ cd flask-material-dashboard
+$ git clone https://github.com/app-generator/flask-chartjs.git
+$ cd flask-chartjs
 ```
 
 > Start the app in Docker
@@ -237,8 +236,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/boilerplate-code-flask-dashboard.git
-$ cd boilerplate-code-flask-dashboard
+$ git clone https://github.com/app-generator/flask-chartjs.git
+$ cd flask-chartjs
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
