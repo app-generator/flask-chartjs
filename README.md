@@ -19,8 +19,8 @@ Flask sample project that uses Chart.js to showcase the information. Initially f
 
 > Links
 
-- [Flask Chart.js - Demo](#) - LIVE deployment (@WIP)
-- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
+- [Flask Chart.js - Demo](https://flask-chartjs.appseed-srv1.com) - LIVE deployment (@WIP)
+- More [Flask Starters](http://appseed.us/admin-dashboards/flask) - tested, production-ready seed projects
 
 <br />
 
